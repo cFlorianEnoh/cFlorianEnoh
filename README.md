@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cFlorianEnoh
+- 👋 Hi, I’m @fenoh
 - 👀 I’m interested in software craftmanship, Front-end, and web architecture
 - 🌱 I’m currently learning some cool stuff
 - 📫 How to reach me ? that is a good question 😁
